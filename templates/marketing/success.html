@@ -1,0 +1,10 @@
+{% extends 'base.html'}
+
+{% block title %}
+Message sent!!!
+{% endblock title %}
+
+{% block content %}
+<h2>Your form has been submitted!</h2>
+<p>Click <a href="{% url 'home' %}">here</a> to refresh the homepage</a></p>
+{% endblock content %}
