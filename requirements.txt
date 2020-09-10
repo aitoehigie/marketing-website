@@ -3,7 +3,7 @@ Django==3.1.1
 django-bootstrap==0.2.4
 django-crispy-forms==1.9.2
 gunicorn==20.0.4
-pkg-resources==0.0.0
+#pkg-resources==0.0.0
 python-dotenv==0.14.0
 pytz==2020.1
 sqlparse==0.3.1
